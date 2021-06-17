@@ -1,4 +1,4 @@
-module env2struct
+module github.com/NomNes/env2struct
 
 go 1.16
 
